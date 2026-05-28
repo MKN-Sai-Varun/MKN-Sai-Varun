@@ -1,30 +1,156 @@
-<h1 align="center">Hi 👋 I'm Varun</h1>
-<h3 align="center">Building AI-Powered Applications & Developer Tools</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkn-sai-varun&label=Profile%20views&color=0e75b6&style=flat" alt="mkn-sai-varun" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ffb347&height=220&section=header&text=Hey%2C%20I'm%20Varun!%20👋&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently pursuing **AWS,DevOps,React-Native**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tau-ochre-61.vercel.app/](https://portfolio-tau-ochre-61.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=700&lines=Building+AI+that+thinks+%F0%9F%A7%A0;LLM+Apps+%7C+RAG+Pipelines+%7C+Voice+AI+%F0%9F%A4%96;Demand+Forecasting+with+CNNs+%2B+LSTMs+%F0%9F%93%88;CS+%40+KMIT+%7C+CGPA+9.63+%7C+Salesforce+Intern+%F0%9F%94%A5;600%2B+LeetCode+%7C+Top+11.5%25+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-- 📫 How to reach me **mknsvarun@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11PbRiVyrs0n66IUDvydy8ja1H1HoZSRq/view?usp=drive_link](https://drive.google.com/file/d/11PbRiVyrs0n66IUDvydy8ja1H1HoZSRq/view?usp=drive_link)
+![Profile Views](https://komarev.com/ghpvc/?username=MKN-Sai-Varun&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/MKN-Sai-Varun?style=for-the-badge&color=ee0979&labelColor=1a1a2e&label=Followers)](https://github.com/mknsvarun)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mknsvarun)
 
-- ⚡ Fun fact **I debug code faster after convincing myself the bug is definitely not my fault.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mknsvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mknsvarun" height="30" width="40" /></a>
-<a href="https://instagram.com/zekken_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zekken_31" height="30" width="40" /></a>
-<a href="https://medium.com/mkn sai varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mkn sai varun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mknsvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mknsvarun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mknsvarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mknsvarun" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧬 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKN-Sai-Varun&show_icons=true&locale=en&layout=compact" alt="mkn-sai-varun" /></p>
+```python
+class MKNSaiVarun:
+    def __init__(self):
+        self.name        = "MKN Sai Varun"
+        self.role        = "AI/ML & Backend Engineering Student"
+        self.university  = "KMIT – B.Tech CSE (AI & ML) 🎓"
+        self.cgpa        = 9.63
+        self.location    = "Hyderabad, India 🇮🇳"
+        self.internship  = "AMTS Step Intern @ Salesforce Inc. 💼"
+        self.passion     = ["LLM Applications", "RAG Pipelines", "Demand Forecasting", "Voice AI"]
+        self.current     = "Building EchoTrace & FusionCast — production AI platforms 🚀"
+        self.fun_fact    = "I named my voice assistant FRIDAY. Jarvis was already taken."
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkn-sai-varun&show_icons=true&locale=en" alt="MKN-Sai-Varun" /></p>
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something intelligent. 🤖")
+
+me = MKNSaiVarun()
+me.say_hi()
+```
+
+- 🔭 Shipped **EchoTrace** to production — 36 users & 187 page views in week one
+- 🧪 Validated a research paper's RMSE metrics within 5% deviation on **FusionCast**
+- 🛠️ Fixed a SOX-critical duplicate order bug at **Salesforce** during internship
+- 🏆 **600+ LeetCode** problems solved | Top 11.5% | Rating 1660
+- 🌱 Currently pursuing **AWS Cloud Practitioner** certification
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/Explainable_AI_(SHAP)-FF6A00?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗣️ LLM & Voice AI Infra
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_(LLaMA_3.3_70B)-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🌐 Backend & Web
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🔧 Stack | 🌐 |
+|:---:|:---|:---:|:---:|
+| 🎯 **EchoTrace** | Production AI-powered event timeline & routine platform. 36 users, 187 page views, 5.2 pages/session in week one. | FastAPI · Next.js · Vercel · Render | [Live](https://github.com/mknsvarun) · [GitHub](https://github.com/mknsvarun) |
+| 📈 **FusionCast** | Multi-Channel Data Fusion Network (MCDFN) for demand forecasting using CNNs + LSTMs + BiGRUs. RMSE 5.85 — within 5% of paper. | PyTorch · SHAP · PFI · Time-Series | [GitHub](https://github.com/mknsvarun) |
+| 🤖 **F.R.I.D.A.Y** | End-to-end voice assistant — Whisper STT → RAG → LLaMA 3.3 70B → TTS with SSE streaming and Next.js dashboard. | FastAPI · ChromaDB · Groq · Next.js | [GitHub](https://github.com/mknsvarun) |
+| 💼 **Salesforce MuleSoft** | Fixed SOX-critical duplicate order bug; engineered idempotency safeguards across 3 MuleSoft event pipeline flows. | MuleSoft · Salesforce · RabbitMQ | — |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MKN-Sai-Varun&theme=sunset-gradient&hide_border=true&background=0D1117&ring=FF6A00&fire=EE0979&currStreakLabel=FF6A00" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKN-Sai-Varun&theme=react-dark&bg_color=0d1117&color=ff6a00&line=ee0979&point=ffb347&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+
+<br/>
+
+| 🏅 Achievement | 📌 Details |
+|:---|:---|
+| 💻 **LeetCode** | 600+ problems solved · Top 11.5% · Rating 1660 · Strong in DP & Algorithms |
+| ☁️ **Salesforce** | Ranger + Agentblazer Innovator status — earned within 2 weeks of internship |
+| 🤖 **Google Study Jams** | Advanced badges in VertexAI · GenAI Arcade · Streamlit |
+| 📜 **Certifications** | Deep Learning · Microsoft Azure · C# · AWS Cloud Practitioner *(in progress)* |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mknsvarun)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mknsvarun@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MKN-Sai-Varun)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mknsvarun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-tau-ochre-61.vercel.app/)
+
+<br/>
+
+> *"The best way to predict the future is to build it — with a neural network."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,50:ff6a00,100:ee0979&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
