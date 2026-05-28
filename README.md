@@ -96,9 +96,9 @@ me.say_hi()
 
 | 🏗️ Project | 📝 Description | 🔧 Stack | 🌐 |
 |:---:|:---|:---:|:---:|
-| 🎯 **EchoTrace** | Production AI-powered event timeline & routine platform. 36 users, 187 page views, 5.2 pages/session in week one. | FastAPI · Next.js · Vercel · Render | [Live](https://github.com/mknsvarun) · [GitHub](https://github.com/mknsvarun) |
-| 📈 **FusionCast** | Multi-Channel Data Fusion Network (MCDFN) for demand forecasting using CNNs + LSTMs + BiGRUs. RMSE 5.85 — within 5% of paper. | PyTorch · SHAP · PFI · Time-Series | [GitHub](https://github.com/mknsvarun) |
-| 🤖 **F.R.I.D.A.Y** | End-to-end voice assistant — Whisper STT → RAG → LLaMA 3.3 70B → TTS with SSE streaming and Next.js dashboard. | FastAPI · ChromaDB · Groq · Next.js | [GitHub](https://github.com/mknsvarun) |
+| 🎯 **EchoTrace** | Production AI-powered event timeline & routine platform. 36 users, 187 page views, 5.2 pages/session in week one. | FastAPI · Next.js · Vercel · Render | [Live](https://echo-trace-gama-vercel.app) · [GitHub](https://github.com/MKN-Sai-Varun/EchoTrace) |
+| 📈 **FusionCast** | Multi-Channel Data Fusion Network (MCDFN) for demand forecasting using CNNs + LSTMs + BiGRUs. RMSE 5.85 — within 5% of paper. | PyTorch · SHAP · PFI · Time-Series | [GitHub](https://github.com/PranavKasanagottu/FusionCast) |
+| 🤖 **F.R.I.D.A.Y** | End-to-end voice assistant — Whisper STT → RAG → LLaMA 3.3 70B → TTS with SSE streaming and Next.js dashboard. | FastAPI · ChromaDB · Groq · Next.js | [GitHub](https://github.com/MKN-Sai-Varun/FRIDAY) |
 | 💼 **Salesforce MuleSoft** | Fixed SOX-critical duplicate order bug; engineered idempotency safeguards across 3 MuleSoft event pipeline flows. | MuleSoft · Salesforce · RabbitMQ | — |
 
 </div>
