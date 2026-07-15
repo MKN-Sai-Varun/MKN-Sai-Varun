@@ -30,7 +30,7 @@ class MKNSaiVarun:
         self.location    = "Hyderabad, India 🇮🇳"
         self.internship  = "AMTS Step Intern @ Salesforce Inc. 💼"
         self.passion     = ["LLM Applications", "RAG Pipelines", "Demand Forecasting", "Voice AI"]
-        self.current     = "Building EchoTrace & FusionCast — production AI platforms 🚀"
+        self.current     = "Building EchoTrace & FusionCast - production AI platforms 🚀"
         self.fun_fact    = "I named my voice assistant FRIDAY. Jarvis was already taken."
 
     def say_hi(self):
@@ -40,7 +40,7 @@ me = MKNSaiVarun()
 me.say_hi()
 ```
 
-- 🔭 Shipped **EchoTrace** to production — 36 users & 187 page views in week one
+- 🔭 Shipped **EchoTrace** to production - 36 users & 187 page views in week one
 - 🧪 Validated a research paper's RMSE metrics within 5% deviation on **FusionCast**
 - 🛠️ Fixed a SOX-critical duplicate order bug at **Salesforce** during internship
 - 🏆 **600+ LeetCode** problems solved | Top 11.5% | Rating 1660
@@ -97,9 +97,9 @@ me.say_hi()
 | 🏗️ Project | 📝 Description | 🔧 Stack | 🌐 |
 |:---:|:---|:---:|:---:|
 | 🎯 **EchoTrace** | Production AI-powered event timeline & routine platform. 36 users, 187 page views, 5.2 pages/session in week one. | FastAPI · Next.js · Vercel · Render | [Live](https://echo-trace-gama-vercel.app) · [GitHub](https://github.com/MKN-Sai-Varun/EchoTrace) |
-| 📈 **FusionCast** | Multi-Channel Data Fusion Network (MCDFN) for demand forecasting using CNNs + LSTMs + BiGRUs. RMSE 5.85 — within 5% of paper. | PyTorch · SHAP · PFI · Time-Series | [GitHub](https://github.com/PranavKasanagottu/FusionCast) |
-| 🤖 **F.R.I.D.A.Y** | End-to-end voice assistant — Whisper STT → RAG → LLaMA 3.3 70B → TTS with SSE streaming and Next.js dashboard. | FastAPI · ChromaDB · Groq · Next.js | [GitHub](https://github.com/MKN-Sai-Varun/FRIDAY) |
-| 💼 **Salesforce MuleSoft** | Fixed SOX-critical duplicate order bug; engineered idempotency safeguards across 3 MuleSoft event pipeline flows. | MuleSoft · Salesforce · RabbitMQ | — |
+| 📈 **FusionCast** | Multi-Channel Data Fusion Network (MCDFN) for demand forecasting using CNNs + LSTMs + BiGRUs. RMSE 5.85 - within 5% of paper. | PyTorch · SHAP · PFI · Time-Series | [GitHub](https://github.com/PranavKasanagottu/FusionCast) |
+| 🤖 **F.R.I.D.A.Y** | End-to-end voice assistant - Whisper STT → RAG → LLaMA 3.3 70B → TTS with SSE streaming and Next.js dashboard. | FastAPI · ChromaDB · Groq · Next.js | [GitHub](https://github.com/MKN-Sai-Varun/FRIDAY) |
+| 💼 **Salesforce MuleSoft** | Fixed SOX-critical duplicate order bug; engineered idempotency safeguards across 3 MuleSoft event pipeline flows. | MuleSoft · Salesforce · RabbitMQ | - |
 
 </div>
 
@@ -129,7 +129,7 @@ me.say_hi()
 | 🏅 Achievement | 📌 Details |
 |:---|:---|
 | 💻 **LeetCode** | 600+ problems solved · Top 11.5% · Rating 1660 · Strong in DP & Algorithms |
-| ☁️ **Salesforce** | Ranger + Agentblazer Innovator status — earned within 2 weeks of internship |
+| ☁️ **Salesforce** | Ranger + Agentblazer Innovator status - earned within 2 weeks of internship |
 | 🤖 **Google Study Jams** | Advanced badges in VertexAI · GenAI Arcade · Streamlit |
 | 📜 **Certifications** | Deep Learning · Microsoft Azure · C# · AWS Cloud Practitioner *(in progress)* |
 
@@ -147,7 +147,7 @@ me.say_hi()
 
 <br/>
 
-> *"The best way to predict the future is to build it — with a neural network."*
+> *"The best way to predict the future is to build it - with a neural network."*
 
 <br/>
 
