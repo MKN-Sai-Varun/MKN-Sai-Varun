@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MKN-Sai-Varun&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/MKN-Sai-Varun?style=for-the-badge&color=ee0979&labelColor=1a1a2e&label=Followers)](https://github.com/mknsvarun)
+[![GitHub followers](https://img.shields.io/github/followers/MKN-Sai-Varun?style=for-the-badge&color=ee0979&labelColor=1a1a2e&label=Followers)](https://github.com/MKN-Sai-Varun)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mknsvarun)
 
